@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  energy_consumed: 1
+  total_energy_credits: 1
+  energy_credits_rate: 1
+  balance: 1
+
+two:
+  energy_consumed: 1
+  total_energy_credits: 1
+  energy_credits_rate: 1
+  balance: 1
